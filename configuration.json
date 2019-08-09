@@ -1,0 +1,12 @@
+{
+    "user": "loginEmailToMyFitnessPal",
+    "password": "zaragoza21810",
+    "IsNecessaryLogin": false changes if you need to login if you dont have the cookies saved,
+    "IsFacebookLogin": true change to false if you don't use facebook to login into myfitnesspal,
+    "IsPDF": true false if you want the email in a simple string,
+    "chromeProfile": "path to chrome profile",
+    "customLocale": "es_ES.UTF-8ChangeForYourLocale",
+    "emailSender": "email that sends emails",
+    "emailPassword": "password of the email",
+    "emails": "list of emails that you want they receive the email with the pdf, seperate each one with ','"
+}
